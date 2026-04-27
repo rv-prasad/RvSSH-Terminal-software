@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "children": [],
+      "name": "PNET Device",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "host": "192.168.197.128",
+          "name": "pnet-R1",
+          "port": 30006,
+          "protocol": "telnet",
+          "type": "session"
+        },
+        {
+          "host": "192.168.197.128",
+          "name": "pnet-R2",
+          "port": 30007,
+          "protocol": "telnet",
+          "type": "session"
+        }
+      ],
+      "name": "Default",
+      "type": "folder"
+    }
+  ]
+}
